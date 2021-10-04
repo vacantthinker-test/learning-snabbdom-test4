@@ -1,0 +1,5 @@
+# 提交git时, 忽略下列文件夹或文件
+node_modules
+dist
+build
+.idea
